@@ -5,8 +5,10 @@
 
 - 📫 How to reach me **vineetkr297@gmail.com**
 
+
+
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
+<img align="right" alt="coding" width="400" src="https://github.com/vineet-kumar108/vineet-kumar108/assets/121636147/af7769df-3ec2-4cdb-890e-434ea327c977.gif"
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vineet-kumar-217630266/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vineet-kumar-217630266/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22527424/vineet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22527424/vineet" height="30" width="40" /></a>
