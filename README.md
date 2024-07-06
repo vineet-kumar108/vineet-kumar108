@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vineet Kumar</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=vineet-kumar108&label=Profile%20views&color=0e75b6&style=flat](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Ffocusing-data-key-jobs-2020-trends-top-programming-skills-meghna-b&psig=AOvVaw2YJOS79RL7Be2WXQ7ctlC9&ust=1720381293679000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPjMhf2Vk4cDFQAAAAAdAAAAABAE)" alt="vineet-kumar108" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vineet-kumar108&label=Profile%20views&color=0e75b6&style=flat" alt="vineet-kumar108" /> </p>
 
 - 📫 How to reach me **vineetkr297@gmail.com**
 
