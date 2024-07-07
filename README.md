@@ -11,9 +11,9 @@
 <img align="right" alt="coding" width="400" src="https://github.com/vineet-kumar108/vineet-kumar108/assets/121636147/af7769df-3ec2-4cdb-890e-434ea327c977.gif"
 <p align="left">
 <a href="https://www.linkedin.com/in/vineet-kumar-217630266/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vineet-kumar-217630266/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22527424/vineet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22527424/vineet" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/vineet_leet_108/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/vineet_leet_108/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/vineetkdrf/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/vineetkdrf/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22527424/vineet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22527424/vineet" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Vineet_leet_108/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/vineet_leet_108/" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/vineetkdrf/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/vineetkdrf/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
